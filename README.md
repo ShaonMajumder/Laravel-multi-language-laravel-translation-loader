@@ -7,6 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Do not use this package
+It have to all translation translated into all languages and caching causes problem, so be aware of using it.
+Alternative of this - https://github.com/ShaonMajumder/Laravel-multi-language-barryvdh-laravel-translation-manager
+
 ## Installation
 ### Install package
 ```bash
